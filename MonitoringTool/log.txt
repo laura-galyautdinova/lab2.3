@@ -1,0 +1,69 @@
+6/20/2024 10:33:10 PM: Monitoring started at 6/20/2024 10:33:10 PM
+6/20/2024 10:33:40 PM: Monitoring started at 6/20/2024 10:33:40 PM
+6/20/2024 10:34:20 PM: Monitoring started at 6/20/2024 10:34:20 PM
+6/20/2024 10:34:44 PM: Monitoring started at 6/20/2024 10:34:44 PM
+6/20/2024 10:34:55 PM: Monitoring started at 6/20/2024 10:34:55 PM
+6/20/2024 10:35:09 PM: Monitoring started at 6/20/2024 10:35:09 PM
+6/20/2024 10:46:36 PM: Monitoring started at 6/20/2024 10:46:36 PM
+6/20/2024 10:48:13 PM: Monitoring started at 6/20/2024 10:48:13 PM
+6/20/2024 10:48:52 PM: Monitoring started at 6/20/2024 10:48:52 PM
+6/20/2024 10:58:11 PM: Monitoring started at 6/20/2024 10:58:11 PM
+6/20/2024 10:58:16 PM: Available memory below 8000MB: 5836MB
+6/20/2024 10:58:17 PM: CPU usage exceeded 1%: 2.733112%
+6/20/2024 10:58:17 PM: Available memory below 8000MB: 5826MB
+6/20/2024 10:58:18 PM: Available memory below 8000MB: 5822MB
+6/20/2024 10:58:19 PM: CPU usage exceeded 1%: 1.7673908%
+6/20/2024 10:58:19 PM: Available memory below 8000MB: 5838MB
+6/20/2024 10:58:20 PM: CPU usage exceeded 1%: 1.5979477%
+6/20/2024 10:58:20 PM: Available memory below 8000MB: 5844MB
+6/20/2024 10:58:21 PM: CPU usage exceeded 1%: 1.6622589%
+6/20/2024 10:58:21 PM: Available memory below 8000MB: 5835MB
+6/20/2024 10:58:22 PM: CPU usage exceeded 1%: 1.7805942%
+6/20/2024 10:58:22 PM: Available memory below 8000MB: 5835MB
+6/20/2024 10:58:23 PM: Available memory below 8000MB: 5837MB
+6/20/2024 10:58:24 PM: CPU usage exceeded 1%: 2.0166438%
+6/20/2024 10:58:24 PM: Available memory below 8000MB: 5837MB
+6/20/2024 10:58:25 PM: CPU usage exceeded 1%: 1.5272609%
+6/20/2024 10:58:25 PM: Available memory below 8000MB: 5839MB
+6/20/2024 10:58:26 PM: Available memory below 8000MB: 5838MB
+6/20/2024 10:58:27 PM: Available memory below 8000MB: 5839MB
+6/20/2024 10:58:28 PM: CPU usage exceeded 1%: 2.5665517%
+6/20/2024 10:58:28 PM: Available memory below 8000MB: 5841MB
+6/20/2024 10:58:29 PM: Available memory below 8000MB: 5846MB
+6/20/2024 10:58:30 PM: Available memory below 8000MB: 5848MB
+6/20/2024 10:58:31 PM: CPU usage exceeded 1%: 2.0346272%
+6/20/2024 10:58:31 PM: Available memory below 8000MB: 5848MB
+6/20/2024 10:58:32 PM: Available memory below 8000MB: 5859MB
+6/20/2024 10:58:33 PM: CPU usage exceeded 1%: 1.8277701%
+6/20/2024 10:58:33 PM: Available memory below 8000MB: 5861MB
+6/20/2024 10:58:34 PM: CPU usage exceeded 1%: 1.2003955%
+6/20/2024 10:58:34 PM: Available memory below 8000MB: 5858MB
+6/20/2024 10:58:35 PM: CPU usage exceeded 1%: 2.1669729%
+6/20/2024 10:58:35 PM: Available memory below 8000MB: 5838MB
+6/20/2024 10:58:36 PM: CPU usage exceeded 1%: 2.2001781%
+6/20/2024 10:58:36 PM: Available memory below 8000MB: 5851MB
+6/20/2024 10:58:37 PM: CPU usage exceeded 1%: 2.6006312%
+6/20/2024 10:58:37 PM: Available memory below 8000MB: 5846MB
+6/20/2024 10:58:38 PM: Available memory below 8000MB: 5851MB
+6/20/2024 10:58:39 PM: CPU usage exceeded 1%: 2.8339684%
+6/20/2024 10:58:39 PM: Available memory below 8000MB: 5822MB
+6/20/2024 10:58:40 PM: CPU usage exceeded 1%: 2.3697152%
+6/20/2024 10:58:40 PM: Available memory below 8000MB: 5820MB
+6/20/2024 11:00:29 PM: Monitoring started at 6/20/2024 11:00:29 PM
+6/20/2024 11:00:34 PM: Available memory below 8000MB: 6064MB
+6/20/2024 11:00:35 PM: CPU usage exceeded 1%: 3.1741524%
+6/20/2024 11:00:35 PM: Available memory below 8000MB: 6041MB
+6/20/2024 11:00:36 PM: CPU usage exceeded 1%: 3.8812377%
+6/20/2024 11:00:36 PM: Available memory below 8000MB: 6020MB
+6/20/2024 11:00:37 PM: CPU usage exceeded 1%: 1.9961119%
+6/20/2024 11:00:37 PM: Available memory below 8000MB: 6013MB
+6/20/2024 11:00:38 PM: Available memory below 8000MB: 6021MB
+6/20/2024 11:02:41 PM: Monitoring started at 6/20/2024 11:02:41 PM
+6/20/2024 11:02:46 PM: Available memory below 8000MB: 5937MB
+6/20/2024 11:02:47 PM: Available memory below 8000MB: 5931MB
+6/20/2024 11:02:48 PM: CPU usage exceeded 1%: 1.5245428%
+6/20/2024 11:02:48 PM: Available memory below 8000MB: 5934MB
+6/20/2024 11:02:49 PM: CPU usage exceeded 1%: 3.4519289%
+6/20/2024 11:02:49 PM: Available memory below 8000MB: 5943MB
+6/20/2024 11:02:50 PM: Available memory below 8000MB: 5947MB
+6/20/2024 11:02:51 PM: Available memory below 8000MB: 5950MB
